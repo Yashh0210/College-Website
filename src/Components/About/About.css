@@ -1,0 +1,47 @@
+.about{
+    margin:100px auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    
+}
+.about-left{
+    flex-basis:40%;
+    position: relative;
+    margin-right: 10px;
+}
+.about-right{
+    flex-basis:50%;
+}
+
+.about_img{
+    width: 100%;
+}
+.play-icon{
+    width: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-40%,-40%) ;
+    
+
+
+   
+}
+.about h3{
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+
+}
+.about h2{
+    font-size: 35px;
+    color: black;
+    margin: 10px 0;
+    max-width: 60%;
+}
+.about p{
+    color: black;
+    margin-bottom: 15px;
+}
