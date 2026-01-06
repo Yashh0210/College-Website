@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .campus {
   margin: 70px auto;
   width: 90%;
@@ -45,4 +46,25 @@
   .gallery {
     flex-direction: column;
   }
+=======
+.campus{
+    margin: 70px auto;
+    width: 90%;
+    text-align: center;
+
+}
+.gallery{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+
+}
+.gallery img{
+    width: 22%;
+    border-radius: 10px;
+}
+.btn img{
+    width: 25px;
+>>>>>>> f24b3cf90b9af885a6730adb91be60b0925b2216
 }

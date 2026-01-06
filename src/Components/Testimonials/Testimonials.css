@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .testimonials {
   margin: 80px auto;
   padding: 0 80px;
@@ -113,4 +114,81 @@
     height: 40px;
     padding: 10px;
   }
+=======
+.testimonials{
+    margin: 80px auto;
+    padding: auto 80px;
+    position: relative;
+
+}
+.next-btn, .back-btn{
+    position: absolute;
+     top: 50%; 
+     left: auto;
+    right: 0;
+    transform: translateY(-50);
+    padding: 15px;
+    border-radius: 50%;
+  background-color: blueviolet;
+  cursor: pointer;
+
+
+    
+
+}
+.back-btn{
+    right: auto;
+    left: 0;
+}
+.slider{
+     width: 100%;  
+    overflow:hidden;
+   
+
+
+}
+.slider ul{
+    display:flex;
+    width:200%;
+    overflow-x: hidden;
+    transition: 0.5s;
+    
+  
+
+
+
+}
+.slider ul li{
+    list-style:none ;
+    width: 50%;
+    padding: 100px;
+} 
+.slide{
+    box-shadow: 0 0 0px rgba(216,191,216,0.05);
+    padding: 40px;
+    border-radius: 10px;
+    color: black;
+    line-height: 1.5;
+      background-color:rgb(216, 191, 216)   ;
+
+
+
+
+    
+}
+.slide img{
+    width:65px ;
+    border-radius: 50%;
+    margin-right: 10px;
+    border:4px solid black;
+}
+.user-info{
+    display: flex;
+    align-items: centre;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.user-info{
+
+>>>>>>> f24b3cf90b9af885a6730adb91be60b0925b2216
 }

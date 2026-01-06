@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .title {
   text-align: center;
   color: black;
@@ -32,4 +33,20 @@
   .title h2 {
     font-size: 22px;
   }
+=======
+.title{
+    text-align: center;
+    color:black ;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 70px 0px 10px;
+
+}
+.title h2{
+    font-size: 32px;
+    color:black;
+    margin-top:10px ;
+    
+>>>>>>> f24b3cf90b9af885a6730adb91be60b0925b2216
 }

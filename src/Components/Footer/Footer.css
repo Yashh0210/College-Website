@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer {
   margin: 10px auto;
   display: flex;
@@ -43,3 +44,25 @@
     font-size: 14px;
   }
 }
+=======
+.footer{
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid black;
+    padding: 15px 0 ;
+}
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.footer li{
+    list-style: none;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+>>>>>>> f24b3cf90b9af885a6730adb91be60b0925b2216
