@@ -9,7 +9,7 @@ A responsive single-page college website template built with Vite and React. It 
 
 ## Quick Start
 
-Prerequisites: Node.js (16+) and npm or yarn installed.
+Prerequisites: Node.js (16+) and npm or yarn installed .
 
 1. Install dependencies
 
